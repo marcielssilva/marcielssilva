@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Marciel S. Silva 😁
-## Dev. FullStack 
+## Dev. FullStack
 ## 🚀 Sobre mim
 Sou um estudante universitário de Análise e Desenvolvimento de Sistemas.
 
@@ -32,4 +32,5 @@ Buscando minhas primeiras Oportunidades na Área de TI .
   <a href="https://instagram.com/marciel.grone" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marciel.ssilva2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcielssilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://github.com/marcielssilva" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white]https://icons8.com.br/icon/16318/github" target="_blank"></a>
 </div>
