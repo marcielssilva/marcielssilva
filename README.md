@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Marciel S. Silva 😁
-## Dev. FullStack
+## Dev. BackEnd
 ## 🚀 Sobre mim
 Sou um estudante universitário de Análise e Desenvolvimento de Sistemas.
 
