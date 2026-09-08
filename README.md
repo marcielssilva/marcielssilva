@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Marciel S. Silva 😁
-## Analista de Suporte Técnico & Dev BAckEnd
+## Analista de Suporte Técnico & Dev BackEnd
 
 ## 🚀 Sobre mim
 Sou Analista de Suporte Técnico em um Provedor de Internet e estudante universitário do último semestre de Análise e Desenvolvimento de Sistemas na FATEC Itapetininga. 
